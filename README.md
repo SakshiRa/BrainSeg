@@ -16,7 +16,7 @@ BrainSeg is a research-driven project aimed at developing and experimenting with
 ### Getting Started:
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:SakshiRa/BrainSeg.git
    cd brainseg
    ```
 2. Install dependencies:
