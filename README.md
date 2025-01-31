@@ -29,3 +29,18 @@ BrainSeg is a research-driven project aimed at developing and experimenting with
    ```
 
 ---
+
+Citation
+
+If you use BrainSeg in your research, please cite it as follows:
+
+
+```
+@misc{brainseg2025,
+  title = {BrainSeg: Automated Brain CT Image Segmentation with MONAI},
+  author = {Sakshi Rathi},
+  year = {2025},
+  howpublished = {GitHub Repository},
+  url = {https://github.com/SakshiRa/BrainSeg.git}
+}
+```
