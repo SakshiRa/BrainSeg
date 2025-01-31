@@ -1,1 +1,1 @@
-# monai-brain-ct
+# BrainSeg
